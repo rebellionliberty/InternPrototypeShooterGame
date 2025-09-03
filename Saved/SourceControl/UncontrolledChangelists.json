@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/M4A1/Blueprints/BP_base_weapons.uasset"
+			]
+		}
+	]
+}
