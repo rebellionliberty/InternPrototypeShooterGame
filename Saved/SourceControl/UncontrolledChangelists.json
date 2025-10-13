@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/UI/WBP_Pausemenu1.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/UI/WBP_Setting.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/UI/WBP_Location1.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/UI/WBP_MainMenu.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/UI/WBP_SelectWeapon.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/UI/WBP_Pause.uasset",
+				"C:/Users/Lenovo LOQ/PrototypeShooter/PrototypeShooter/Content/FirstPerson/Blueprints/UI/WBP_MapsLocation.uasset",
 				"C:/Users/ASUS/Documents/Unreal Projects/PrototypeShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
